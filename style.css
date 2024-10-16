@@ -1,0 +1,14 @@
+/** pour la CSS **/
+#editorial{
+    display:block;
+    width:80px;
+    height:31px;
+    background:url(edito_normal.jpg) 0 0 no-repeat;
+  }
+  #editorial:hover,#editorial:active,#editorial:focus{
+    background:url(edito_survole.jpg) 0 0 no-repeat;
+  }
+  #editorial span{
+    text-indent: -5000px;
+    display:inline-block;
+  }
